@@ -47,5 +47,11 @@ height="200px"
 style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=Lucas-Soaresdf&show_icons=true&theme=highcontrast&include_all_comits=true&locale=pt-br"
 >
-
+<img 
+text-align="left"
+alt="GitHub Stats"
+height="200px"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Soaresdf&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=4"
+>
 </p>
