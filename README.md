@@ -37,21 +37,4 @@ style="padding-right: 10px;"
 src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt=""> 
 <br>
 <br>
-### 📈 Nível em cada linguagem 
 
-<p>
-<img 
-text-align="left"
-alt="GitHub Stats"
-height="200px"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=Lucas-Soaresdf&show_icons=true&theme=highcontrast&include_all_comits=true&locale=pt-br"
->
-<img 
-text-align="left"
-alt="GitHub Stats"
-height="200px"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Soaresdf&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=4"
->
-</p>
