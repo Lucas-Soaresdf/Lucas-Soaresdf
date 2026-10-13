@@ -29,12 +29,7 @@ alt="JavaScript"
 title="JavaScript"
 width="30px"
 style="padding-right: 10px;"
-src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt=""> <img text-align="left"
-alt="SQL"
-title="SQL"
-width="30px"
-style="padding-right: 10px;"
-src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt=""> 
+src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt=""> 
 <br>
 <br>
 
