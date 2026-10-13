@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web Iniciante `**
 
-Sou Lucas Soares, tenho 24 anos e estou cursando o terceiro semestre de Ciência da Computação. Tenho experiência prévia em atendimento ao cliente e operações no setor varejista (Atacadão), onde desenvolvi habilidades como organização, comunicação e trabalho em equipe.
+Sou Lucas Soares, tenho 25 anos e estou cursando o quarto semestre de Ciência da Computação. Tenho experiência prévia em atendimento ao cliente e operações no setor varejista (Atacadão), onde desenvolvi habilidades como organização, comunicação e trabalho em equipe.
 
 Atualmente busco minha primeira oportunidade na área de Tecnologia da Informação, com foco em desenvolvimento e suporte técnico. Estou em constante aprendizado e aberto a desafios que me permitam aplicar meus conhecimentos em programação, lógica e manutenção de computadores, enquanto continuo me desenvolvendo como profissional.
 
